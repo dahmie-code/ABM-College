@@ -1,0 +1,12 @@
+C:\Projects\MyFirstProject\MyFirstProject\bin\Debug\net6.0-windows\MyFirstProject.exe
+C:\Projects\MyFirstProject\MyFirstProject\bin\Debug\net6.0-windows\MyFirstProject.dll
+C:\Projects\MyFirstProject\MyFirstProject\obj\Debug\net6.0-windows\MyFirstProject.csproj.AssemblyReference.cache
+C:\Projects\MyFirstProject\MyFirstProject\obj\Debug\net6.0-windows\MyFirstProject.Form1.resources
+C:\Projects\MyFirstProject\MyFirstProject\obj\Debug\net6.0-windows\MyFirstProject.csproj.GenerateResource.cache
+C:\Projects\MyFirstProject\MyFirstProject\obj\Debug\net6.0-windows\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyFirstProject\MyFirstProject\obj\Debug\net6.0-windows\MyFirstProject.AssemblyInfoInputs.cache
+C:\Projects\MyFirstProject\MyFirstProject\obj\Debug\net6.0-windows\MyFirstProject.AssemblyInfo.cs
+C:\Projects\MyFirstProject\MyFirstProject\obj\Debug\net6.0-windows\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Projects\MyFirstProject\MyFirstProject\obj\Debug\net6.0-windows\MyFirstProject.dll
+C:\Projects\MyFirstProject\MyFirstProject\obj\Debug\net6.0-windows\refint\MyFirstProject.dll
+C:\Projects\MyFirstProject\MyFirstProject\obj\Debug\net6.0-windows\MyFirstProject.pdb

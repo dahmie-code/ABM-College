@@ -1,0 +1,7 @@
+C:\Projects\GridView\GridView\obj\Debug\net6.0-windows\GridView.csproj.AssemblyReference.cache
+C:\Projects\GridView\GridView\obj\Debug\net6.0-windows\GridView.Form1.resources
+C:\Projects\GridView\GridView\obj\Debug\net6.0-windows\GridView.csproj.GenerateResource.cache
+C:\Projects\GridView\GridView\obj\Debug\net6.0-windows\GridView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GridView\GridView\obj\Debug\net6.0-windows\GridView.AssemblyInfoInputs.cache
+C:\Projects\GridView\GridView\obj\Debug\net6.0-windows\GridView.AssemblyInfo.cs
+C:\Projects\GridView\GridView\obj\Debug\net6.0-windows\GridView.csproj.CoreCompileInputs.cache

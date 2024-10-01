@@ -1,0 +1,22 @@
+C:\Projects\E-commerce Tool\E-commerce Tool\bin\Debug\net6.0-windows\E-commerce Tool.exe
+C:\Projects\E-commerce Tool\E-commerce Tool\bin\Debug\net6.0-windows\E-commerce Tool.deps.json
+C:\Projects\E-commerce Tool\E-commerce Tool\bin\Debug\net6.0-windows\E-commerce Tool.runtimeconfig.json
+C:\Projects\E-commerce Tool\E-commerce Tool\bin\Debug\net6.0-windows\E-commerce Tool.dll
+C:\Projects\E-commerce Tool\E-commerce Tool\bin\Debug\net6.0-windows\E-commerce Tool.pdb
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E-commerce Tool.csproj.AssemblyReference.cache
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E_commerce_Tool.Form1.resources
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E_commerce_Tool.Form2.resources
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E_commerce_Tool.Form3.resources
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E_commerce_Tool.Form4.resources
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E_commerce_Tool.Form5.resources
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E_commerce_Tool.Properties.Resources.resources
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E-commerce Tool.csproj.GenerateResource.cache
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E-commerce Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E-commerce Tool.AssemblyInfoInputs.cache
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E-commerce Tool.AssemblyInfo.cs
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E-commerce Tool.csproj.CoreCompileInputs.cache
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E-commerce Tool.dll
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\refint\E-commerce Tool.dll
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E-commerce Tool.pdb
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\E-commerce Tool.genruntimeconfig.cache
+C:\Projects\E-commerce Tool\E-commerce Tool\obj\Debug\net6.0-windows\ref\E-commerce Tool.dll

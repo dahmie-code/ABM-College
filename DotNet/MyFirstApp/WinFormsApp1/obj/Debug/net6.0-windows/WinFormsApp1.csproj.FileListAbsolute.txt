@@ -1,0 +1,17 @@
+C:\Projects\MyFirstApp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Projects\MyFirstApp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Projects\MyFirstApp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Projects\MyFirstApp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Projects\MyFirstApp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Projects\MyFirstApp\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

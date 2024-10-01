@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="addOwnerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addTransactionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUpdateProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PropertyManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransactionManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateOwnerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

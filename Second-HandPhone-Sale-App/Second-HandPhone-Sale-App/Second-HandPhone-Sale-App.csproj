@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Second_HandPhone_Sale_App</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\amjith-s-yMubHZhtvas-unsplash.jpg" />
+    <None Remove="Resources\daniel-romero-aiUAxBNe3Xk-unsplash.jpg" />
+    <None Remove="Resources\evgeny-opanasenko-KMIlGDfC0YY-unsplash.jpg" />
+    <None Remove="Resources\george-beridze-n-nyzlZe1jw-unsplash.jpg" />
+    <None Remove="Resources\hamid-roshaan-Q7TEVokbCcM-unsplash.jpg" />
+    <None Remove="Resources\zeesha-SUGIhq_GrIs-unsplash.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\amjith-s-yMubHZhtvas-unsplash.jpg" />
+    <EmbeddedResource Include="Resources\daniel-romero-aiUAxBNe3Xk-unsplash.jpg" />
+    <EmbeddedResource Include="Resources\evgeny-opanasenko-KMIlGDfC0YY-unsplash.jpg" />
+    <EmbeddedResource Include="Resources\george-beridze-n-nyzlZe1jw-unsplash.jpg" />
+    <EmbeddedResource Include="Resources\hamid-roshaan-Q7TEVokbCcM-unsplash.jpg" />
+    <EmbeddedResource Include="Resources\zeesha-SUGIhq_GrIs-unsplash.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Images\amjith-s-yMubHZhtvas-unsplash.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Images\evgeny-opanasenko-KMIlGDfC0YY-unsplash.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Images\zeesha-SUGIhq_GrIs-unsplash.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
